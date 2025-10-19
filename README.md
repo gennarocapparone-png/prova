@@ -1,0 +1,27 @@
+.github/workflows/afili-auto.yml
+name: Afili Auto Workflow
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 3 * * *"  # ogni notte alle 3:00
+
+jobs:
+  afili:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica i file del progetto
+        uses: actions/checkout@v4
+
+      - name: Installa Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Esegui lo script Afili
+        run: |
+          python3 script_afili.py
+
+          
