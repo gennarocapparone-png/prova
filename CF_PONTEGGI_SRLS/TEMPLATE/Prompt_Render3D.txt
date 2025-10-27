@@ -1,1 +1,0 @@
-Render 3D: Tipo progetto, Materiali, Dimensioni, Illuminazione, Punto di vista, Obiettivo. Output immagine pronta per presentazione.
