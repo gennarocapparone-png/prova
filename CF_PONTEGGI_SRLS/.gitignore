@@ -1,6 +1,0 @@
-# Mantieni solo cartelle temporanee fuori dal repo
-**/Storico/**
-**/tmp/**
-
-# Consenti il versionamento di PDF, DOCX, XLSX, DWG, ZIP, ecc.
-# (Se i file superano dimensioni importanti, valuteremo Git LFS)
