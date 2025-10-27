@@ -1,0 +1,1 @@
+Genera il PiMUS per: Società=[...], Cantiere=[...], Ponteggio=[...], Personale=[...], DPI=[...], Riferimenti: D.Lgs. 81/08. Includi fasi, rischi, emergenze, controlli e firme.

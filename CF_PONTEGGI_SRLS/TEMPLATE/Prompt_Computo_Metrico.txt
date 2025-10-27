@@ -1,0 +1,1 @@
+Computo metrico estimativo: Lavorazioni, Quantità, UM, Prezzi unitari, Totali parziali, Totale, Varianti. Output tabellare (CSV/Excel).

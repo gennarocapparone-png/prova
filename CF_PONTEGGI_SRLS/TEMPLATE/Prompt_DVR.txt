@@ -1,0 +1,1 @@
+Genera DVR per: Società=[...], Sede=[...], Dipendenti=[n], RSPP=[...], Medico=[...], Rischi generali e specifici, Misure, Programma miglioramento, Formazione, Firme.

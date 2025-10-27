@@ -1,0 +1,11 @@
+# Archivio documenti pesanti
+*.pdf
+*.docx
+*.xlsx
+*.dwg
+*.stl
+*.zip
+
+# Cartelle temporanee
+**/Storico/**
+**/tmp/**

@@ -1,0 +1,1 @@
+Genera POS per: Società=[...], Cantiere=[...], Durata=[...], Responsabili=[...], Lavorazioni=[...], Rischi/Misure=[...], Allegati=[DVR, formazione, visite, DPI, DURC]. Conformità Titolo IV D.Lgs. 81/08.
